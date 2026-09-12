@@ -2,7 +2,7 @@
 
 **Estudiante:** {Homero Samir Rodriguez Bernal}
 
-**Carrera:** {Arquitectura / Ingeniería en Ciberseguridad}
+**Carrera:** {Ingeniería en Ciberseguridad}
 
 **Cuatrimestre:** Primero
 
@@ -17,3 +17,4 @@
 - `proyecto/` — avances del proyecto integrador
 
 ## Declaración de uso de IA
+Claude
