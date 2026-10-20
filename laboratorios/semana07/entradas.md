@@ -1,5 +1,3 @@
----
-
 ### Entrada 1 (Clara y completa)
 
 > "Hola, recibí un correo de alerta de seguridad indicando un inicio de sesión no reconocido en mi cuenta de Gmail desde un dispositivo en Alemania hoy a las 10:30 AM. Ya cambié la contraseña desde otro dispositivo, activé la verificación en dos pasos y cerré todas las sesiones activas. ¿Hay algún otro paso de seguridad recomendado que deba realizar?"
